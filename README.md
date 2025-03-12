@@ -19,16 +19,16 @@ This repository serves as a knowledge hub, offering:
 ✅ **Best Practices** – Techniques for improving workflows and optimising performance.  
 
 ## ⚠️ Disclaimer  
-This repository does not contain original content. The materials here have been sourced from various publicly available platforms and are simply organised for easy access and reference. If you are the original author of any resource and would like it removed or credited, please raise an issue.  
+The materials here have been sourced from various publicly available platforms and are simply organised for easy access and reference. If you are the original author of any resource and would like it removed or credited, please raise an issue.  
 
 ## 🎯 Who Is This For?  
 This repo is intended for learners at all levels—students, researchers, developers, and AI enthusiasts looking to explore or enhance their understanding of these topics.  
 
 
 ## 🤝 Contributions
-If you have useful learning resources you'd like to include, feel free to submit a pull request or suggest additions. Let's make this a comprehensive learning hub!
+If you have useful learning resources you'd like to include, feel free to submit a pull request or suggest additions.
 
 ## 📜 License & Attribution
-Since this repository consists of materials from different sources, please refer to the original sources for licensing details. This repo is meant solely for educational and organisational purposes.
+Please refer to the original sources for licensing details. This repo is meant solely for educational and organisational purposes.
 
 ## Happy Learning! 🚀
